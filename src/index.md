@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Eleventy Duo'
+title: 'Joyous Coding'
 ---
 
 # Hello World

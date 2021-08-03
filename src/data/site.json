@@ -1,11 +1,11 @@
 {
-  "name": "Eleventy Duo",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
-  "url": "https://eleventyduo.netlify.app",
+  "name": "Joyous Coding",
+  "description": "Martin's site and blog.",
+  "url": "https://www.joyouscoding.com",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "Martin Van Aken",
+    "email": "martin@joyouscoding.com",
+    "twitterHandle": "martinvanaken"
   },
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [

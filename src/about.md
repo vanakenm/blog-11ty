@@ -1,14 +1,14 @@
 ---
-title: About Aidan Charles Powell
+title: About Martin Van Aken
 layout: about.njk
-name: Aidan Charles Powell
+name: Martin Van Aken
 image: '/images/me.jpeg'
 ---
 
-Aidan Charles Powell is a 23-year-old health centre receptionist who enjoys watching television, eating out and social media. He is generous and giving, but can also be very rude and a bit lazy.
+Hello. I'm Martin, a 40ish years old software developer.
 
-He is a Jedi who defines himself as straight. He has a degree in medicine. He is a vegetarian. He is obsessed with vintage dresses.
+A long time ago, I majored in Economics, but I spent my whole career in software development, with a keen interest on education (coaching, teaching) aside from the "building" part.
 
-He grew up in a middle class neighbourhood. After his mother died when he was young, he was raised by his father
+Since then, I did pretty much every job possible in a software development company or department, generally around software developer or technical team leader role.
 
-He is currently married to Maureen Erika Quinn. Maureen is 13 years older than him and works as a sales assistant.
+I live in Brussels, Belgium with my partner & my two kids.

@@ -3,6 +3,6 @@ layout: home
 title: 'Joyous Coding'
 ---
 
-# Hello World
+# Hi, I'm Martin
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+I've been coding and helping others to code for a while. Blog posts are just beyond, more about me on the about page.

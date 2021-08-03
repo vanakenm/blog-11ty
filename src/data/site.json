@@ -18,6 +18,11 @@
       "text": "About",
       "url": "/about",
       "external": false
+    },
+    {
+      "text": "Work",
+      "url": "/work",
+      "external": false
     }
   ],
   "socialLinks": [

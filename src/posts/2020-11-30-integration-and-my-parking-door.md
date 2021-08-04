@@ -23,7 +23,7 @@ I actually don't own a car, but I'm using the parking for my e-bike, so I've bee
 
 Here is a little schema about how it works:
 
-![Car Elevator]({{ site.url }}/blog/img/car-elevator.png)
+![Car Elevator](/images/car-elevator.png)
 
 ## The problem
 

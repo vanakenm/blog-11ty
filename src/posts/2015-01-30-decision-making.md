@@ -1,10 +1,9 @@
 ---
-layout: post
 title:  "Decision Making"
 date:   "2015-01-30"
 tags: [process]
 decription: Decisions matter in every team. What matters too is how fast we can take them.
-permalink: posts/{{ title | slug }}/index.html
+permalink: posts/{{ title | slug }}.html
 ---
 
 Decisions are an integral part of a development's team work. Whether it is about priorities, methodologies, tools to use, we always have to settle on something. This is even more true for startups, where all the business and financials decisions are added to the pure development ones.

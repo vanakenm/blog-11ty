@@ -3,7 +3,7 @@ title:  "Make my job easier: User Stories"
 date:   "2015-10-06"
 tags: [process]
 decription: Development is costly. Help me get there faster
-permalink: posts/{{ title | slug }}/index.html
+permalink: posts/{{ title | slug }}.html
 ---
 
 Second post mostly aimed at business owners. As the previous about [why I won't sign your NDA](http://joyouscoding.com/blog/2015/08/12/why-i-wont-sign-your-nda.html), this is mainly a summary of experiences based on building various projects in the context of our upcoming MVP Labs (more on that later).

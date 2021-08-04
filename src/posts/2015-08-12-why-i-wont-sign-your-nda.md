@@ -3,7 +3,7 @@ title:  "Why I won't sign your NDA"
 date:   "2015-08-12"
 tags: [legal]
 decription: Your idea is not (that) valuable. Don't ask me to sign an NDA to talk about it
-permalink: posts/{{ title | slug }}/index.html
+permalink: posts/{{ title | slug }}.html
 ---
 
 Since I started as a freelance beginning of this year, *I had the opportunity to meet a lot of business owners*, most of them in the very early stages of their venture. Most of them are coming to me to get either technical advice or to develop their MVP, but we normally start by just having a simple discussion about their business.

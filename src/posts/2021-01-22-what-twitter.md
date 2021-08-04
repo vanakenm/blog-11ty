@@ -3,7 +3,7 @@ title: "What Twitter did for me"
 date: "2021-01-22"
 tags: [learning]
 decription: Funnily enough you don't have to post on Twitter for it to be useful
-permalink: posts/{{ title | slug }}/index.html
+permalink: posts/{{ title | slug }}.html
 ---
 
 I was almost putting "Why I love Twitter" as the title. So: I'm not a big user (consumer or produced) of social media, but Twitter has become quite important to me, not really to amplify my thoughts (they are few and far between and I've not a lot of followers anyway) - but as a windows to other people experiences.

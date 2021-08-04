@@ -3,7 +3,7 @@ title:  "New Beginings!"
 date:   "2015-01-05"
 tags: [hire]
 decription: After three good years at Pull Review, I've started as a freelance developer. Wanted to see more companies, to experiment more too.
-permalink: posts/{{ title | slug }}/index.html
+permalink: posts/{{ title | slug }}.html
 ---
 After three good years at [Pull Review](http://pullreview.com), I've started as a freelance developer. Wanted to see more companies, to experiment more too.
 

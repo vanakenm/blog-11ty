@@ -3,7 +3,7 @@ title: "Looking for a job"
 tags: [hire]
 date: "2021-01-01"
 decription: Seems like I'm looking for work "again"
-permalink: posts/{{ title | slug }}/index.html
+permalink: posts/{{ title | slug }}.html
 ---
 
 Hi!

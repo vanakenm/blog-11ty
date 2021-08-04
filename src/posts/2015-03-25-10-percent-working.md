@@ -3,7 +3,7 @@ title:  "10% working is better than 80% not working"
 date:   "2015-04-14"
 tags: [code]
 decription: Main goal for any program is first to run.
-permalink: posts/{{ title | slug }}/index.html
+permalink: posts/{{ title | slug }}.html
 ---
 
 

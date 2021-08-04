@@ -3,7 +3,7 @@ title:  "Delaying Decisions"
 date:   "2015-04-29"
 tags: [process]
 decription: Why are we so keen to decide on a maximum of topics when we know the least about them.
-permalink: posts/{{ title | slug }}/index.html
+permalink: posts/{{ title | slug }}.html
 ---
 
 Second post inspired by my experience as a coach at [LeWagon Bootcamp](http://lewagon.org/program). For those that missed the first, it's just [there](http://vanakenm.github.io/blog/2015/04/14/10-percent-working.html).

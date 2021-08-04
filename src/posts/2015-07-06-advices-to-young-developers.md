@@ -3,7 +3,7 @@ title:  "A piece of advice to new developers"
 date:   "2015-07-06"
 tags: [starting]
 decription: Some advice to people starting their dev career
-permalink: posts/{{ title | slug }}/index.html
+permalink: posts/{{ title | slug }}.html
 ---
 
 Third post inspired by my experience as a coach at [LeWagon Bootcamp](http://lewagon.org/program) - and by some experience with hiring and working with junior developers or more precisely *developers looking for their first job*.

@@ -3,7 +3,7 @@ title: "Integration and my parking door"
 date: "2020-11-23"
 tags: [integration]
 decription: My parking door is an integrated system - with the associated problems
-permalink: posts/{{ title | slug }}/index.html
+permalink: posts/{{ title | slug }}.html
 ---
 
 I've been looking to explain a bit what **integration** means for developers - the kind of answer I've to give following exchanges like this:

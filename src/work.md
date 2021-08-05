@@ -17,4 +17,4 @@ Technology wise, I generally use what is there/what the team knows, with emphasi
 
 I've worked (in a production setting) with Java, Ruby, JavaScript (and TypeScript) and Python - I'll probably learn others as needed. I mostly work with web technologies even if I did some mobile dev too. Due to my Economics degree I tend to have a good grasp on statistics, so Data Science is generally accessible to me.
 
-- 
+Interested to contract me? Send me an email at [martin@joyouscoding.com](mailto:martin@joyouscoding.com)

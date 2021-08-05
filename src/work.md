@@ -4,10 +4,17 @@ layout: work.njk
 name: What I do
 ---
 
-Hello. I'm Martin, a 40ish years old software developer.
+I've been building software and helping people build software for the last twenty years. I'm now working as a freelance. My full profile is available on [LinkedIn](https://www.linkedin.com/in/martinvanaken/) but here are some relevant experience:
 
-A long time ago, I majored in Economics, but I spent my whole career in software development, with a keen interest on education (coaching, teaching) aside from the "building" part.
+- I've spent 8 years early in my career at [M-Team](https://www.mloz.be) - a branch of Belgium's very complex and complete social security system. I learned a lot about complex, changing, law-based specifications, "legacy" systems and how to work together on a massive old codebase.
+- I cofounded PullReview - a now defunct startup active in the automated code review area. While this ended up in failure, I learned a lot by having to do "a bit of everything" - from sales (I now know I'm quite bad at it) to marketing to HR to legal
+- I worked several years as a freelance for [Swift](http://swift.com), helping to move a team from an operational model to a project based, coaching them into good software development practice. While I'm often critical of how big companies (and Swift) work, I learned how to succeed and deliver value in such environments
+- I was [Bluesquare](bluesquarehub.com) CTO for 5 years, leading the company development team in high growth situation. This included developing and managing a product line, hiring and shaping a team and being part of the C-level management.
+- I always kept a coaching/teaching activity through various channel - I cofounded [LeWagon](http://lewagon.com) Brussels chapter and coached several batches of students there. I also created a custom bootcamp for a major Belgian Bank, giving new front end skills to a team of developers there. More recently, I coached as [Osoc][https://osoc.be/] and teached some React Native to a group of blind students via [Eqla](https://eqla.be).
+- Finally I'm coaching/advising some early stages startup on technical matters.
 
-Since then, I did pretty much every job possible in a software development company or department, generally around software developer or technical team leader role.
+Technology wise, I generally use what is there/what the team knows, with emphasis in going with well established technologies as much as possible - popular stacks have a lot of examples and documentation available, large ecosystems and a good pool of developers to hire from - perks that are generally more important than the specific technical aspects.
 
-I live in Brussels, Belgium with my partner & my two kids.
+I've worked (in a production setting) with Java, Ruby, JavaScript (and TypeScript) and Python - I'll probably learn others as needed. I mostly work with web technologies even if I did some mobile dev too. Due to my Economics degree I tend to have a good grasp on statistics, so Data Science is generally accessible to me.
+
+- 

@@ -1,6 +1,6 @@
 ---
 title: "Picking a blog engine in 2021"
-date: "2021-08-9"
+date: "2021-08-09"
 tags: [blog]
 decription: It's all about choices and it's not that easy
 permalink: posts/{{ title | slug }}.html
@@ -16,7 +16,9 @@ In my ideal imaginary world, I'd just put some words down and be down with it - 
 - [Micro Blog](micro.blog): I really wanted to like that one. Looked perfect for me, so I went with it... before getting so many errors with weird messages when moving my content there that I had to just delete everything and look for something else.
 - [Eleventy](https://www.11ty.dev/): This what worked for me in the end. Some detail below.
 
-So to be complete, this is using Elventy with a theme/starter called [Eleventy Duo](https://github.com/yinkakun/eleventy-duo) created by [Yinkakun](https://github.com/yinkakun) (thanks!). The setup include an easy way to deploy on [Netlify](https://www.netlify.com/) and even a link to [Forestry](https://forestry.io/) - a web UI that can even commit to GitHub.
+So to be complete, this is using Elventy with a theme/starter called [Eleventy Duo](https://github.com/yinkakun/eleventy-duo) created by [Yinkakun](https://github.com/yinkakun) (thanks!). The setup include an easy and free way to deploy on [Netlify](https://www.netlify.com/) and even a link to [Forestry](https://forestry.io/) - a web UI that can even commit to GitHub.
+
+Thanks to Netlify's [redirect capabilities](https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file) I was able to keep my old urls working.
 
 In a nutshell this gives me what I need:
 

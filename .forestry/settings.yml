@@ -16,6 +16,13 @@ sections:
   - post
 - type: heading
   label: Pages
+- type: directory
+  path: src
+  label: Pages
+  create: documents
+  match: "*.md"
+  new_doc_ext: md
+  templates:
 - type: document
   path: src/data/navigation.json
   label: Navigation

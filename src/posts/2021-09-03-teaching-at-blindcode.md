@@ -17,7 +17,7 @@ What I learned - in no specific order:
 - Blind people use "see" in figurative ways all the time (ex: "do you see what I mean") - so you can too, it's not ableist or offensive by any means
 - Screenreaders are not limited to text to speech feature - they also provide for example alternate navigation options (for example to go from link to link or tabs to tabs on a webpage)
 - Using screensharing and remote access to help them debug their mistakes gave me a better view of the way they interact with the computer, roughly:
-  - Screen readers allows them to get whatever in the screen read to them. Alternatives exists (Braille displays).
+  - Screen readers allows them to get whatever in the screen read to them. Alternatives exists (Braille displays such as the [supervario](https://www.baum.ro/index.php?language=en&pagina=produse&subpag=supervario)).
   - Fun fact, most of them have their screen reader at 1.5 or 2x speed - you get tired of listening to all links on a page
   - They either type (I'm not looking to my keyboard either, why should they need it?) with a echo system or dictate
   - Keyboard shortcuts are obviously critical

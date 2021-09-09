@@ -6,7 +6,7 @@ decription: Why I did it and why you should too
 permalink: posts/{{ title | slug }}.html
 ---
 
-After a small number of long running jobs, I've been looking for work (whether missions, part time or full time) a couple of time those last years.
+After a small number of long running jobs, I've been looking for work (whether missions, part time or full time) a couple of times in the last few years.
 
 While the industry is still good, I can't hide from the main thing that did allow me to get into most of those positions - or at least to be given a chance to show my skills - *networking*.
 
@@ -14,7 +14,7 @@ While I'm an extrovert, I never liked networking. I've trouble going into events
 
 I'm just lucky that twice in my career I end up in positions where networking was part of the job.
 
-Once out of necessity - I cofounded a failed startup, but we played the game according to (what we thought were) the rules - we joined an incubator, developed friendships with the other founders and useful relations with mentors - generally well established CEOs (at our little Belgium level at least).
+Once out of necessity - I co-founded a failed startup, but we played the game according to (what we thought were) the rules - we joined an incubator, developed friendships with the other founders and useful relations with mentors - generally well established CEOs (at our little Belgium level at least).
 
 Once out of pure side benefit. I worked as lead teacher at LeWagon Brussels on and off for a while after having started the chapter here. After some years, it means that my students' students are now senior developers or founders in hiring positions.
 

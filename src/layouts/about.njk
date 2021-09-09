@@ -4,6 +4,9 @@ layout: base.njk
 
 <div class="about">
   <h1>About {{ name }}</h1>
-  <img src="{{ image | url }}" alt="" class="about__image">
+  <div class="image">
+    <img src="{{ image | url }}" alt="">
+    <small>{{ imagetxt }}</small>
+  </div>
   {{ content | safe }}
 </div>

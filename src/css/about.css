@@ -10,8 +10,9 @@
   margin-top: 0;
 }
 
+
 @media (min-width: 35.9375em) {
-  .about img {
+  .image {
     width: 200px;
     float: right;
     margin-left: 1rem;

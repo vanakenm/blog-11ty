@@ -3,6 +3,7 @@ title: About Martin Van Aken
 layout: about.njk
 name: Martin Van Aken
 image: '/images/me.jpeg'
+imagetxt: 'Me (right)'
 ---
 
 Hello. I'm Martin, a 40ish years old software developer.

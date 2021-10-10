@@ -81,6 +81,16 @@ module.exports = function (eleventyConfig) {
     return array.slice(0, n);
   });
 
+  const now = new Date();
+
+  const publishedPosts = (post) => post.date <= now && !post.data.draft; 
+
+  eleventyConfig.addCollection("posts", (collection) => { 
+    return collection
+        .getFilteredByGlob("./src/posts/*.md") 
+        .filter(publishedPosts); 
+  });
+
   eleventyConfig.addCollection('tagList', function (collection) {
     let tagSet = new Set();
     collection.getAll().forEach(function (item) {

@@ -50,3 +50,5 @@ For some "usual" questions:
 So - I won't accept your invitation. The good thing is - you can probably find someone who will. I see that the recruiting industry is still alive and well - as mind boggling as this could be for me.
 
 Martin
+
+As a sidenote - this mostly do not apply to company internal recruiters - then tend to understand their company pretty well and are more closely related to the hiring team so there are much less friction in the relation.

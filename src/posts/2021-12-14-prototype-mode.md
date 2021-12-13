@@ -38,6 +38,17 @@ This is a bit "what I do when coding alone with a very severe time constraint". 
 
 The general idea is to get a decent façade (features, UI) on what the end user can see - and anything that just works behind it.
 
+## If you want to go fast, go alone
+
+> "If you want to go gast, go alone, if you want to go far, go together"
+
+One of the main goal is to make possible for this to be a "one person project". Most of the shortcuts are related to my own shortcomings - I'm mostly a backend developer, hence:
+
+- Using something like Heroku to avoid the hassle (and time) of setting up a server and managing it.
+- Using a UI toolkit to get something decent without having to call a designer.
+
+Depending on your own strenghts, it could be the other way around - as a front end developer with good design skills for example, it may be good to look at things like firebase or other like that that can give you a functional backend/API with minimal coding.
+
 ## Downsides
 
 While I love that (very short) phase of a project where could can release in hours, not days, a lot of practices are there for a good reason, and this is 1/dangerous 2/would fall apart quickly once you need to work with a team.

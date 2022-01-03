@@ -5,6 +5,7 @@ const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const htmlmin = require('html-minifier')
 const fs = require('fs');
 const path = require('path');
+const generateSocialImages = require("@manustays/eleventy-plugin-generate-social-images");
 
 const isDev = process.env.APP_ENV === 'development';
 const isProd = process.env.ELEVENTY_ENV === 'production'
@@ -27,6 +28,14 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(readingTime);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(syntaxHighlight);
+  eleventyConfig.addPlugin(generateSocialImages, {
+    promoImage: "./src/images/me.png",
+    outputDir: "./public/images/preview",
+    urlPath: "images/preview",
+	  siteName: "Martin on joyouscoding.com",
+    titleColor: "#fedb8b",
+    bgGradient: ['#ABB8C0', '#DDACB3']
+  });
 
   // setup mermaid markdown highlighter
   const highlighter = eleventyConfig.markdownHighlighter;

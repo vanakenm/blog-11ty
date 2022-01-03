@@ -41,13 +41,8 @@
       <meta name="description" content="{{ desc | escape }}"/>
     {% endif %}
 
-    {% if not socialImage %}
-      {% set socialImage = site.defaultSocialImage %}
-    {% endif %}
-    {% if socialImage %}
-      <meta property="og:image" content="{{ socialImage | url | absoluteUrl(site.url) }}"/>
-      <meta name="twitter:image" content="{{ socialImage | url | absoluteUrl(site.url) }}"/>
-    {% endif %}
+    <meta property="og:image" content="{% GenerateSocialImage title %}" />
+    <meta name="twitter:image" content="{% GenerateSocialImage title %}" />
 
     {# Add mermaid -- start #}
       <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>

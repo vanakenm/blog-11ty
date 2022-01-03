@@ -31,7 +31,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(generateSocialImages, {
     promoImage: "./src/images/me.png",
     outputDir: "./public/images/preview",
-    urlPath: "images/preview",
+    urlPath: "/images/preview",
 	  siteName: "Martin on joyouscoding.com",
     titleColor: "#fedb8b",
     bgGradient: ['#ABB8C0', '#DDACB3']

@@ -12,4 +12,4 @@ A long time ago, I majored in Economics, but I spent my whole career in software
 
 Since then, I did pretty much every job possible in a software development company or department, generally around software developer or technical team leader role.
 
-I live in Brussels, Belgium with my partner & my two kids.
+I live in Brussels, Belgium with my partner & our two kids.

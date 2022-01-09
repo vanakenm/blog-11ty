@@ -54,37 +54,71 @@ I'm still wondering if a "Linked Data on top of existing technologies" would not
 
 Going Linked Data still look like a risky bet in that regard - people I've spoken to in the area are convinced it's going to best best big thing. I'm not sure - but heh, better this than blokchain.
 
+### Solid
+
+Sort of similar but different - our [Osoc]() application was Solid based (by request) - pretty much a proof of concept of what an image library application could be in a Solid world.
+
+For those that never touched it, [Solid](https://solidproject.org/) is a specification about data interchange with one key aspect - the data stays under the control of the person (versus Google or Facebook). Fathered by none other than Tim Berners-Lee, Solid makes a lot of sense technically and ethically.
+
+Creating the app was mostly straighforward - in a way it's defining a Solid-compliant data model then create a client app using the existing Solid APIs.
+
+My doubts here are more on the market side - none of the big players have any interest of using or even tolerating this approach - I don't see them going there without being forced to, which looks unlikely.
+
 ### Mongo
 
-- Mongo aggregations 
-- Mongoose
+Among others I was handed a Mongo backed web application - I also wrote some Mongo courses, so I finally (?) worked a bit with one of the most popular NoSQL database. I don't know if this comes from the bias of having 20+ years of familiarity with SQL, but I found that writing Mongo queries had quite a steep learning curve.
 
-### Linux admin
+Basics things are, well, basic, but more advanced cases get complex fast when dealing with non trivial aggregations. As with SPARQL, the tooling is also not as good as in SQL (ie: EXPLAIN & others).
 
+I know Mongo can be quite fast - but I'm still unconvinced by the "benefits" of [schemaless](https://www.joyouscoding.com/posts/my-problem-with-nosql.html). I used Mongoose (a JavaScript/Mongo ODM) for some lessons and while it is quite nice in itself, it's a good example of "if the schema is not in the database it will need to be somewhere else" - and I'm quitte happy to have it in the database generally.
 
+### Linux admin and the command line
 
-### Command line
+Due to taking over some admin work at [IOS Press](https://www.iospress.com/), I had to improve a bit my Linux administration skills. I used `sed` to replace some lines in a very large CSV, `find` and `grep` in combination to retreive all files containing specific text, `find` again to identify files with bad permissions, etc.
 
-- sed
-- sort command on Linux
-- find
-- grep
+I also discovered so. many. ways of having background processes running on a given Ubunut machine:
+
+- Cron to launch jobs on schedule
+- Incron to watch changes in files and launch jobs when they happen
+- Tmux to keep jobs running in the background
+
+I also learned that `pstree` can be a life saver when trying to identify the root process of a complex tree of subsystems.
 
 ### Kafka
 
-Kafka consumers
+I've heard of Kafka several time, but always tought that:
 
-### Much more Python
+- It was insanely complicated
+- It was only for a few people doing super complex stuff
 
-First year writing more Python than Ruby
+It ends up that both those ideas were false - while I would clearly not use Kafka without needs, used "by the book" it's not that complicated, and can solve a quite common problem: garanteeing good reception and processing of a message.
 
-### Solid
+In the [Shayp](https://www.shayp.com/) case it was about various IOT devices events, but it could be API calls or anything. 
 
-Some Solid API
+Combined with vendor hosting (Azure in this case), it means that even if your application is down (something that will happen), the event will still be in Kafka's queue, ready to be processed once your application will be back online - garanteeing "no data loss", something not that easy for a small startup.
+
+### (Much) more Python
+
+This is probably the first year I wrote more Python than Ruby (on the server, as if I take everything into account, it's probably JavaScript that tops it all). 10 years ago I created a startup. We needed to pick a language and framework for the usual "web page facing database" kind of application.
+
+We flipped a coin between Ruby on Rails and Python/Django (two solid options - at the time and now). I wonder how my career will have evolved should the coin had fallen on the Python side.
+
+10 years later, I would probably have just picked Python. I did not change opinion about the language (I still love Ruby) - but Python popularity and the rise of data analytics made it a much more obvious choice today. I miss a bit of the _fluency_ of Ruby, and some of the magic of Rails, but generally speaking I learned to like Python a lot, and I assume I'll use it more and more.
+
+This year I used Python for web development (Django), web development (Flask), scrapping web pages (Beautiful Soup), process automation, data analysis (pandas and friends), and even a bit of machine learning (scikit-learn) and NLP (SpaCy, see below) - a testament to the language & ecosystem versatility.
 
 ### NLP
 
-Basic NLP with Spacy
+The whole premise of [newscheck](https://www.newscheck.info) was based on extracting article titles from websites and then identifying people names on them to finally make statistics on their gender. I had every piece but the "identifying people" working in my head before even starting:
+
+- Create a small web app using Django
+- Use a Django command to run the analysis
+- Trigger the command every day using the Heroku scheduler
+- Save results in a database
+
+So my first prototype was just running a NER (named entity recognition) on the titles to see if I could get a good result. I don't know much about NLP, NER or related concepts - so I did some googling to find what people were using nowaday, and looks like it's [SpaCy](https://spacy.io/).
+
+Once the model (different per language!) is loaded, SpaCy can be run in a couple of lines of code. I know the analysis could be much better, but it does the job for now and allowed me to go live.
 
 ### Tools and Platforms
 
@@ -123,13 +157,35 @@ Thanks to the support, this ended up going relatively fast (still needed a coupl
 
 ### Nginx
 
-- Basic config. 
+So is the time for a confession - I generally despise/fear server admin stuff. When coding, if I make a mistake I can just fix it. Even if it's commited already, I can find the exact place back and do a PR. I also normally have a staging environment (and my local one). In other words - I've a lot of mecanisms in place to help me fix the inevitable mistakes.
+
+I generally find system adminstration much less forgiving - a small error in a nginx or iptable config file can pretty much shut down your production, and not every action can be reversed. I think this is due to both the nature of the work and my lack of experience with it (at least compared to web development).
+
+So my main coping strategy has been to find a way not to do that part of the job - either because there is a team/colleague in charge of it or (better) because we delegate that responsibility to a provider (I _love_ heroku for that reason - I code my app, they manage the production).
+
+As [IOS Press](https://iospress.com) one man development team, there is only me, and we can't use something like Heroku for various reasons, so I had to dig a bit more into system administration.
+
+In order to get more reproductible configurations, I'm moving most things to [Docker](https://docs.docker.com/get-docker/) and Docker Compose (see below) - but I still needed some basic configuration. Having no real experience in either Nginx or Apache, I asked a more knowledgeable colleague what to pick and got as message "Nginx is slightly simpler to configure" - so I went for it.
+
+All said and done - it's not that frightening, as long as I can test on something else than production. I did not need too much:
+
+- Serving a single folder of static file
+- Acting as a proxy to a Flask app for some more dynamic content
+- SSL certification via Let's Encrypt and Certbot
+
+Aside from losing two hours on a missing trailing slash for the Flask proxypass, this was relatively straightforward, with the whole config being less than 30 lines long.
+
+I still prefer to rely on Heroku or a more knowledgeable colleague for this kind of tasks - but I'll clearly be less frightened the next time I've to do it.
 
 ### Docker
 
-Docker compose
-docker container ps & friends
-Some docker
+Following the previous topic - I wanted to have reproductible configurations, and looks like docker is the way to go - it also meant I could test a lot of things locally and expect them to run mostly the same on the remote system.
+
+I did not get into fancy stuff like Kubernetes (I deploy to a single server anyway) - just defined a Dockerfile per service, combined in a Docker Compose file for the whole stack. The general idea is that if an image exist, you can just use it (in this case you don't have a Dockerfile at all - just a reference to the image in the Docker Compose file), if it does not you can build it but you can also easily extend a given image - using it as a starting point for your own.
+
+It is even possible to configure Nginx that way - using the base image and just putting your own configuration in.
+
+It's not deployed yet - but feels promising.
 
 ## Afterthoughts
 

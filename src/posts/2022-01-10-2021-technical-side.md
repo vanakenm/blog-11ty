@@ -1,6 +1,6 @@
 ---
 title: "2021 Wrap Up - on the technical side"
-date: "2022-01-10"
+date: "2022-01-09"
 tags: [blog]
 decription: Back to (technical) work
 permalink: posts/{{ title | slug }}.html

@@ -1,6 +1,6 @@
 ---
 title: "Don't build a F35"
-date: "2022-03-03"
+date: "2022-03-20"
 tags: [tech]
 decription: Solutions for everyone tend to satisfy no one
 permalink: posts/{{ title | slug }}.html

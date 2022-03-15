@@ -13,15 +13,16 @@ I've been building software and helping people build software for the last twent
 - I worked at [Shayp](shayp.com) on a major migration from Pyramid/Mongo to Django/Postgresql
 - I always kept a coaching/teaching activity through various channel - I cofounded [LeWagon](http://lewagon.com) Brussels chapter and coached several batches of students there. I also created a custom bootcamp for a major Belgian Bank, giving new front end skills to a team of developers there. More recently, I coached at [Osoc](https://osoc.be/) and teached some React Native to a group of blind students via [Eqla](https://eqla.be).
 - I was director of software at [Skills Union](https://www.skillsunion.com) where I managed the Software Engineering curriculum.
+- I did a 3 months mission as technical advisor at [WHO](https://www.who.int) for [Bluesquare](bluesquarehub.com) to help create a platform to manage covid data - from collection to dashboards
 - Finally I'm coaching/advising some early stages startup on technical matters.
 
 I'm currently working mainly at two companies:
 
 - I'm a senior developer at [IOS Press](https://www.iospress.com), an editor of scientific paper. I manage a pipeline extracting metadata to create a graph database out of them, with the associated front ends to query it.
-- I'm on a mission as technical advisor at [WHO](https://www.who.int) for [Bluesquare](bluesquarehub.com) to help create a platform to manage covid data - from collection to dashboards
+- I'm a senior developer at [Beeodiversity](https://beeodiversity.com), a company that uses... bees and the pollen they collect to do pollution evaluation.
 
 Technology wise, I generally use what is there/what the team knows, with emphasis in going with well established technologies as much as possible - popular stacks have a lot of examples and documentation available, large ecosystems and a good pool of developers to hire from - perks that are generally more important than the specific technical aspects.
 
-I've worked (in a production setting) with Java, Ruby, JavaScript (and TypeScript) and Python - I'll probably learn others as needed. I mostly work with web technologies even if I did some mobile dev too. Due to my Economics degree I tend to have a good grasp on statistics, so Data Science is generally accessible to me.
+I've worked (in a production setting) with Java, Ruby, JavaScript (and TypeScript), PHP and Python - I'll probably learn others as needed. I mostly work with web technologies even if I did some mobile dev too. Due to my Economics degree I tend to have a good grasp on statistics, so Data Science is generally accessible to me.
 
 Interested to contract me? Send me an email at [martin@joyouscoding.com](mailto:martin@joyouscoding.com)

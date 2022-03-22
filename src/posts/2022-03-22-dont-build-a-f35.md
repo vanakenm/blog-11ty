@@ -8,12 +8,12 @@ permalink: posts/{{ title | slug }}.html
 
 ## The setup
 
-Someone inside BigCorp (which can be a private company but also a public one or a part of an institution, governement, etc - what matters is that it's big) Bob, a manager stumble into a massive efficiency: team blue is considering building a task tracker (or an accounting software, or a security one, or whatever productivity tool is needed there - let's call this $SOFTWARE) - while team red already has one / is already building one.
+Someone inside BigCorp (which can be a private company but also a public one or a part of an institution, governement, etc - what matters is that it's big) Bob, a manager stumble into a massive inefficiency: team blue is considering building a task tracker (or an accounting software, or a security one, or whatever productivity tool is needed there - let's call this $SOFTWARE) - while team red already has one / is already building one.
 
 Listening only to his courage and righteous fury facing this obvious misuse of company resources - building the same thing twice inside the same company ! - Bob quickly gets into team blue meeting:
 
 - You don't need to build this - team red has one already, you can use theirs !
-- But our need are not the same - we're not sure what they are building is good for us ?
+- But our needs are not the same - we're not sure what they are building is good for us ?
 - No worries - my cursory look tells me you need the same thing - and I'll discuss with team red to make sure to take into account your needs
 
 Being thorough, Bob also barges into team red meeting room:
@@ -65,7 +65,7 @@ Delays will come from the development time - but also from additionnal test need
 
 Finally the software will be "done" (as much as a software ever is, but let put that part aside too). At least it will be better for everyone. Except it most probably won't - cramming the features means some will be "in the face" of users that don't need them. Or (as the F35) it will be generic and hence require a huge level of customization by each team to adjust the way it work to the way they work.
 
-Use cases that were suppsoed to be "simple" will turn into multi screen wizard or dashboard with dozens of levels and gears to manage to get a result.
+Use cases that were supposed to be "simple" will turn into multi-screen wizards or dashboards with dozens of levers and gears to manage to get a result.
 
 ### And they were happy ever after
 

@@ -33,7 +33,7 @@ Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.
 - Clone your new repository with `git clone https://github.com/YOUR_REPO`,
 
 - Navigate to the newly created repo
-
+ 
 - Install dependencies with `yarn install`
 
 - Serve the site locally with `yarn dev`

@@ -31,3 +31,23 @@ li {
   margin-bottom: 1em;
   margin-top: 1em;
 }
+
+
+.companies {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  list-style: none;
+}
+
+.companies li {
+  margin-right: 10px;
+}
+.companies img {
+  height: 80px;
+}
+
+

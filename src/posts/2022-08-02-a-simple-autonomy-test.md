@@ -8,9 +8,9 @@ permalink: posts/{{ title | slug }}.html
 
 ## Story 
 
-A middle manager at a company I was discussing with was explaining their intentions regarding their team. Among other objectives was to increase the automation in the build pipeline and to get the team on some kind of task tracking tool.
+A middle manager at a company I was discussing with was explaining their intentions regarding their team. Among other objectives was to increase coaching done by senior people in the team and to get the team on some kind of task tracking tool.
 
-They went with those proposals to their boss, that approved the automation part but wanted to wait for the task tracking part, to the middle manager desmise - the two proposals were complementary and it's not like one was going to prevent the other to happen.
+They went with those proposals to their boss, that approved the coaching part but wanted to wait for the task tracking part, to the middle manager desmise - the two proposals were complementary and it's not like one was going to prevent the other to happen.
 
 I asked "Why didn't you do it anywway - it's your team, and it looks like it makes sense". I generally try to get my management support, but some decisions can just be taken with the team, even without top management official approval.
 

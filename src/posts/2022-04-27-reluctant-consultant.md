@@ -2,7 +2,7 @@
 title: "The reluctant freelance"
 date: "2022-04-27"
 tags: [career]
-decription: I did not really plan nor wanted to be a freelance - but I've learned to enjoy it.
+description: I did not really plan nor wanted to be a freelance - but I've learned to enjoy it.
 permalink: posts/{{ title | slug }}.html
 ---
 

@@ -2,7 +2,7 @@
 title: "Don't build a F35"
 date: "2022-03-22"
 tags: [tech]
-decription: Solutions for everyone tend to satisfy no one
+description: Solutions for everyone tend to satisfy no one
 permalink: posts/{{ title | slug }}.html
 ---
 

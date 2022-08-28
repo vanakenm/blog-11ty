@@ -2,7 +2,7 @@
 title: "A simple autonomy test"
 date: "2022-08-02"
 tags: [process]
-decription: Can your team do this?
+description: Can your team do this?
 permalink: posts/{{ title | slug }}.html
 ---
 

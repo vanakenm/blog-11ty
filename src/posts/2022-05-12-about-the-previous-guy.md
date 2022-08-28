@@ -2,7 +2,7 @@
 title: "About the previous guy"
 date: "2022-05-12"
 tags: [process]
-decription: Let's try some kindness and understanding.
+description: Let's try some kindness and understanding.
 permalink: posts/{{ title | slug }}.html
 ---
 

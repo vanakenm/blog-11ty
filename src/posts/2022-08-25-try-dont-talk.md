@@ -1,5 +1,5 @@
 ---
-title: "Trying versus debating"
+title: "Try don't talk"
 date: "2022-08-25"
 tags: [process]
 description: Trying it generally cheaper
@@ -23,9 +23,9 @@ The reason talking may not solve the problem is linked to two unsaid assumptions
 - That talking can indeed clarify the problem - either because someone has some information that the rest of the group does not or because talking will make better solution/clarity emerge from the existing amount of knowledge
 - That "going in" without this crucial step will be costly or cause irreparable damage to the team/project/company
 
-Those are generally untrue. Of course, if a stakeholder has a lot of information that has not be shared, it needs to be, but in all but the most dysfunctional teams, the information is shared - at least to a reasonable extent. That includes typically the root user problem.
+Those are generally untrue. Of course, if a stakeholder has a lot of information that has not been shared, it needs to be, but in all but the most dysfunctional teams, the information is shared - at least to a reasonable extent. That includes typically the root user problem.
 
-Once the knowledge in the group is mostly equivalent, talking about it (solutions and way of working) as a sort of diminishing return - there is only so much you can do in the abstract.
+Once the knowledge in the group is mostly equivalent, talking about it (solutions and way of working) has a sort of diminishing return - there is only so much you can do in the abstract.
 
 Trying things, even with high uncertainty is generally not that costly - you can draw some mockups to see how a feature could work, or even put some code to evaluate a solution's actual complexity - without incurring heavy costs or unchangeable decisions.
 

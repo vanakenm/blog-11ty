@@ -8,7 +8,7 @@ permalink: posts/{{ title | slug }}.html
 
 ## Story 
 
-Software development is full of uncertainties. Most teams I've been part of generally start development with little known facts and a lot of unknown ones - both on the business and on the technical side, from what we should exactly deliver to how we should do it.
+Software development is full of uncertainties. Most teams I've been part of generally start development with little-known facts and a lot of unknown ones - both on the business and on the technical side, from what we should exactly deliver to how we should do it.
 
 The summary of that is: "We can't do X yet, we need to talk about it before"
 

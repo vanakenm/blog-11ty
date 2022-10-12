@@ -1,0 +1,11 @@
+---
+title: "The 50 colleagues team"
+date: "2022-08-25"
+tags: [hire]
+description: You are not hiring me alone
+permalink: posts/{{ title | slug }}.html
+---
+
+## Story 
+
+Software development is full of uncertainties. Most teams I've been part of generally start development with little-known facts and a lot of unknown ones - both on the business and on the technical side, from what we should exactly deliver to how we should do it.

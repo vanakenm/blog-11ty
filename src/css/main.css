@@ -35,8 +35,9 @@ li {
 
 .companies {
   display: flex;
+  flex-wrap: wrap;
   flex-direction: row;
-  align-items: center;
+  align-items: left;
   justify-content: center;
   margin-top: 2rem;
   margin-bottom: 2rem;
@@ -48,6 +49,7 @@ li {
 }
 .companies img {
   height: 80px;
+  min-width: 80px;
 }
 
 

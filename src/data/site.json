@@ -17,7 +17,9 @@
       { "url": "https://www.mloz.be", "logo": "/images/logos/mlozit.png" },
       { "url": "https://www.lewagon.com", "logo": "/images/logos/lewagon.png" },
       { "url": "https://www.iospress.com", "logo": "/images/logos/iospress.png" },
-      { "url": "https://www.eqla.be", "logo": "/images/logos/eqla.png" }
+      { "url": "https://www.eqla.be", "logo": "/images/logos/eqla.png" },
+      { "url": "https://www.farmforgood.org", "logo": "/images/logos/farmforgood.png" },
+      { "url": "https://www.beeodiversity.com", "logo": "/images/logos/beeo.jpg" }
   ],
   "headerLinks": [
     {

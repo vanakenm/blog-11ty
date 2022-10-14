@@ -11,3 +11,4 @@ Here is some feedback I got from previous customers/employers:
 - Don't know about his technical skills but his puns are really good
 - You're really a generic developer
 - The guy brings energy, stamina, gravitas, laughs, long hair, fancy t-shirts, network, Dark Vador puppets
+- My new colleagues are a bunch of critical anarchists and it made me think of you

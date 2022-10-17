@@ -36,4 +36,4 @@ Looking back to the last period I did that for:
 
 This means that hiring me is not just hiring me - you are also hiring my network. I may be the only developer in your company, but I have access to a lot of other developers.
 
-This is pretty much part of my "offer" as a "one-man product team".
+This is pretty much part of my offer as a "one-man product team".

@@ -12,13 +12,13 @@ A weird expression has appeared those last months: "Quiet Quitting". From the in
 
 The wording is an impressive combination of insult and bias while being extremely loaded.
 
-This is related to the kind of wording you find in job offers "We look for someone that goes 'above and beyond'". It's a nice way to say "We look for someone that will put extra hours" or other kinds of "extra" work - without corresponding additional compensation or benefits.
+This is related to the kind of wording you find in job offers "We look for someone that goes 'above and beyond'". It's a nice way to say "We look for someone that will put in extra hours" or other kinds of "extra" work - without corresponding additional compensation or benefits.
 
 This is already bad enough (it should be taken as a red flag for anyone looking for work), but the "quiet quitting" expression is even worse.
 
-"Not putting more effort than necessary" is called "working" - not "quiet quitting" or anything stupid like that. Same about "not putting extra hours" or other things like that. A work relationship is a contract where the employer pays for a certain amount of work - not more, not less. Should the employer wants more - well they can enter a negotiation, which means bringing something to the table.
+"Not putting more effort than necessary" is called "working" - not "quiet quitting" or anything stupid like that. Same about "not putting in extra hours" or other things like that. A work relationship is a contract where the employer pays for a certain amount of work - not more, not less. Should the employer wants more - well they can enter a negotiation, which means bringing something to the table.
 
-So - next time your employer as above "going above and beyond", ask them what -they- are going to do to go above and beyond your compensation. Why should one party do more than the other? It's a contract, not a charity.
+So - next time your employer asks about "going above and beyond", ask them what -they- are going to do to go above and beyond your compensation. Why should one party do more than the other? It's a contract, not a charity.
 
 So - give me a break with this BS.
 

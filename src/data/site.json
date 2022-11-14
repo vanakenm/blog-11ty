@@ -53,6 +53,11 @@
       "text": "Twitter",
       "url": "https://twitter.com/martinvanaken",
       "external": true
+    },
+    {
+      "text": "Mastodon",
+      "url": "https://mastodon.social/@martinvanaken",
+      "external": true
     }
   ],
   "footerLinks": [

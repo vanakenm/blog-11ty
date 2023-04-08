@@ -33,12 +33,12 @@
   "scripts": {
     "dev": "run-p dev:*",
     "start": "eleventy --serve",
-    "build": "run-s clean build:assets build:site",
-    "dev:assets": "env ELEVENTY_ENV=development webpack --mode production --watch",
-    "dev:site": "env ELEVENTY_ENV=development eleventy --serve",
+    "build": "run-s build:assets build:site",
+    "dev:assets": "webpack --mode production --watch",
+    "dev:site": "eleventy --serve",
     "build:assets": "webpack --mode production",
-    "build:site": "env ELEVENTY_ENV=production eleventy",
-    "clean": "rm -rf ./public"
+    "build:site": "eleventy",
+    "clean": "rm -f ./public"
   },
   "dependencies": {
     "remove": "^0.1.5"

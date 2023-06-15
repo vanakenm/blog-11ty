@@ -12,3 +12,5 @@ Here is some feedback I got from previous customers/employers:
 - You're really a generic developer
 - The guy brings energy, stamina, gravitas, laughs, long hair, fancy t-shirts, network, Dark Vador puppets
 - My new colleagues are a bunch of critical anarchists and it made me think of you
+- Damn you are fast
+- When other people pass after him for a speech or a lecture, it makes them feel like slow motion snails.

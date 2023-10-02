@@ -36,7 +36,7 @@ So, yes, but it come with a price - multiple ones actually:
 
 Honestly? No. The only one that come close to that is JavaScript. I don't think it's as productive on the backend (there is no direct equivalent to Django in JavaScript). It can work for mobile apps (using React Native), so that's a plus, but as a scripting or data language it's nowhere as good.
 
-## It's not aboout the language
+## It's not about the language
 
 As usual - there is nothing here that is specific to the language itself or its technical capacity - it's a combination of ecosystem, history and market share. You could argue that those are a result of the language capabilities - but that's just not true.
 

@@ -28,7 +28,7 @@ Basically - you can build 98% of the startups/companies with that. It's also wid
 
 So, yes, but it come with a price - multiple ones actually:
 
-- It makes your infrastructure more complex - even doing separate apps for front & back does. Suddendly you need two servers.
+- It makes your infrastructure more complex - even doing separate apps for front & back does. Suddenly you need two servers.
 - Features are just longer: something that was some Python & a bit of HTML is now some Python API, then a client to parse it and show it using React
 - Your team need either to all know both languages or you need to split them in separated teams, with the associated costs and coordinations headaches.
 

@@ -1,6 +1,6 @@
 ---
 title: "I'm no rockstar, you're not Google, and that's ok"
-date: "2023-12-02"
+date: "2023-10-15"
 tags: [hiring]
 description: I'm no rockstar, you're not Google, and that's ok
 permalink: posts/{{ title | slug }}.html

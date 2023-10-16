@@ -1,6 +1,6 @@
 ---
 title: "Seniority Reloaded"
-date: "2023-10-09"
+date: "2023-12-31"
 tags: [hiring]
 description: It's about the tech except it's not
 permalink: posts/{{ title | slug }}.html

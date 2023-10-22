@@ -47,6 +47,12 @@ Most inefficiencies I've seen in development are about building the wrong thing 
 
 Something that baffle me to this days is how many developers seems reluctant to engage on this topic - including those that will in the end complain about "having to do things again".
 
+## Seniority as Finding where my value is
+
+As I'm generally hired by the management (sometime technical, often not or not anymore) a key point is generally to find where I can provide the most value. Sometime it's getting a huge refactor done, sometime it's about getting some features out or stabilize the platform or improve the team or anything else.
+
+The key point is that more often than not the reason invoked for getting me in is not going to be where most value can be generated - which means it's up to me to find that spot, do the job then report. It does not means not doing something I am specifically asked to do, but a recognition that I may be in a better spot to judge where I can produce value than the person paying my bills.
+
 ## Seniority as Managing your Manager
 
 I've been a team lead (I'm one again, I guess) and a C-level. Having "fled" the position does not means I forgot about what it is about. This is generally very helpful in my interactions with my own management. Being able to tell your boss "I understand" (truthfully, of course) goes often a long way.
@@ -81,7 +87,7 @@ There is the usual: keep it as simple as possible, assume you can't know the fut
 
 ## But what about the technology?
 
-I guess you can be very senior in technology too. I'm quite happy to be able to rely & learn from people 15 or 20 years younger than me.
+I guess you can be very senior in technology too.
 
 As far as I'm concerned, I've seen 28 years old developers I would not beat in a hackathon/tech competition settings.
 

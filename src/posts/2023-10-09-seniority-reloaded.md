@@ -57,7 +57,7 @@ The key point is that more often than not the reason invoked for getting me in i
 
 I've been a team lead (I'm one again, I guess) and a C-level. Having "fled" the position does not means I forgot about what it is about. This is generally very helpful in my interactions with my own management. Being able to tell your boss "I understand" (truthfully, of course) goes often a long way.
 
-This do not means "I agree" - just that I generally understand their positions, trade offs and others. I know why their getting tipsy, I often understand why things start to become "urgent" from their point of view - so I can generally anticipate them or ask for information sometime before they think to provide it.
+This do not means "I agree" - just that I generally understand their positions, trade offs and others. I know why they're getting nervous, I often understand why things start to become "urgent" from their point of view - so I can generally anticipate them or ask for information sometime before they think to provide it.
 
 This falls under "Managing your Manager" - something that starts with remembering that they are a human being too. Being senior, often a freelance in a good market tends to put a less asymmetric relationship - while I do work for them, I can generally speak my mind, devoid of most games.
 

@@ -25,6 +25,10 @@
     { "url": "https://www.iospress.com", "logo": "/images/logos/iospress.png" },
     { "url": "https://www.eqla.be", "logo": "/images/logos/eqla.png" },
     {
+      "url": "https://www.rocketflow.be",
+      "logo": "/images/logos/rocketflow.jpg"
+    },
+    {
       "url": "https://www.farmforgood.org",
       "logo": "/images/logos/farmforgood.png"
     },

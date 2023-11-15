@@ -14,3 +14,4 @@ Here is some feedback I got from previous customers/employers:
 - My new colleagues are a bunch of critical anarchists and it made me think of you
 - Damn you are fast
 - When other people pass after him for a speech or a lecture, it makes them feel like slow motion snails.
+- They guy is a webinar by himself

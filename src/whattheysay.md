@@ -15,3 +15,4 @@ Here is some feedback I got from previous customers/employers:
 - Damn you are fast
 - When other people pass after him for a speech or a lecture, it makes them feel like slow motion snails.
 - They guy is a webinar by himself
+- You are the king of OneDrive (no crown with the mandate, unfortunately)

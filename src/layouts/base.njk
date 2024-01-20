@@ -37,10 +37,6 @@
     <meta property="og:url" content="{{ site.url + page.url }}"/>
     <meta name="twitter:card" content="summary_large_image">
 
-    {% if site.author.twitterHandle %}
-      <meta name="twitter:creator" content="@{{ site.author.twitterHandle | replace('@', '') }}"/>
-    {% endif %}
-
     {% set desc = description %}
     {% if not desc %}
       {% set desc = content | striptags | truncate(140) %}

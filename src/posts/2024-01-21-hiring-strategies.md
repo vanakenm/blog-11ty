@@ -16,18 +16,39 @@ Give as many information as you can in the job posting - about the tech but also
 
 My current one is generally a variation of:
 
-- Job posting
-- CV based selection to around 5 people
-- Interview 1 (me/candidate):
-  - Me: explain the company, demo the product, describe the team
-  - Them: voiceover on their journey, reasons they want to join
-  - I try to select around 3 people out of this phase
-- Interview 2 (me/candidate/team):
-  - Come with the team that prepared some questions (they have my notes from the previous meetings for that)
-  - They present themselves quickly, ask a couple of questions
-  - Candidate can ask they own questions too
-- Interview 3 (boss/team):
-  - When relevant, this is about "meet the CEO/head of X" stuff
+### Job posting
+
+As outlined above, I try to be complete there - notably I mention who is in the team and our product phase.
+
+I still ask for both a resume & a motivation letter - I like to understand why people apply (aside from "I want money to eat" which is completly ok)
+
+I try to spread it broadly - linked in, company site, network, job boards if it means I can reach people I cannot.
+
+### CV based selection to around 5 people
+
+I take the applications and (if I get enough of them - it's not always the case) I filter them to keep around 5 - less is missing opportunities, more takes too much time to interview.
+
+### Interview 1
+
+Who? Candidate, Me
+
+- Me: explain the company, demo the product, describe the team
+- Them: voiceover on their journey, reasons they want to join
+- I try to select around 3 people out of this phase
+
+### Interview 2
+
+Who? Candidate, Team, Me
+
+- Come with the team that prepared some questions (they have my notes from the previous meetings for that)
+- They present themselves quickly, ask a couple of questions
+- Candidate can ask they own questions too
+
+### Interview 3
+
+Who? Candidate, Boss
+
+- When relevant, this is about "meet the CEO/head of X" stuff
 
 From there we move to offer, etc.
 

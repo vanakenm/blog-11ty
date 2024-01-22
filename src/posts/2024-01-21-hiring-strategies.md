@@ -24,7 +24,7 @@ I still ask for both a resume & a motivation letter - I like to understand why p
 
 I try to spread it broadly - linked in, company site, network, job boards if it means I can reach people I cannot.
 
-### CV based selection to around 5 people
+### Resume based selection
 
 I take the applications and (if I get enough of them - it's not always the case) I filter them to keep around 5 - less is missing opportunities, more takes too much time to interview.
 
@@ -51,6 +51,20 @@ Who? Candidate, Boss
 - When relevant, this is about "meet the CEO/head of X" stuff
 
 From there we move to offer, etc.
+
+## Money
+
+That's a tought one for me. One one side, I'm convinced that companies should "shoot first" (ie come with an amount or range) - mostly to avoid everyone losing time, if the expectation of one side are widely outside of the other range.
+
+On the other side, in the small environments I work in, while we do have a job description, the person makes the job, not the other way around. This means I can generally accept someone too junior or too senior for the role or better at one aspect than other - it just means I'm going to shift the responsibilities around between the new hire, me and the team.
+
+This makes giving actual meaningful range (ie not 50-150k€ or something stupid like that) complicated.
+
+In addition, in Belgium you may end up with people under either employee or (fake) freelance status applying for the same position - and the way you frame the salary is very different from one case to the other.
+
+In a nuthsell - I think companies where people fit a role with already 5+ people in it should have ranges and disclose them. Teams of 3-5 total with huge seniority or role differences are a bit a different topic.
+
+Fun fact, when I'm applying as a freelance, I play that but on the opposite - which is that I'm going to disclose a range early in the process if the company did not - just to avoid losing time.
 
 ## Juniors and Seniors
 

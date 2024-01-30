@@ -16,3 +16,4 @@ Here is some feedback I got from previous customers/employers:
 - When other people pass after him for a speech or a lecture, it makes them feel like slow motion snails.
 - They guy is a webinar by himself
 - You are the king of OneDrive (no crown with the mandate, unfortunately)
+- You make good points and proposals - it feels without any concerns for your job (when I ask if we really need to make the software at all)

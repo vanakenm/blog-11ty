@@ -36,7 +36,7 @@ To be more precise they include more *functions* than programming - usually prod
 
 This may be a remain of the industry I started with - where all this roles were actually expected from a developer - or a trust that *under a certain size* teams of generalists tend to outperform specialists (due to being more flexible and requiring less steps between need and feature).
 
-So - when I say jobs I understand it does not limit itself to "people writing code".
+So - when I say jobs I understand it does not limit itself to "people writing code" - which also means I'd have no qualm with a software team being led by a devops or a designer either.
 
 ## There is something weird in our industry
 

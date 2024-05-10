@@ -1,72 +1,73 @@
 ---
-title: "Managing people I understand"
-date: "2024-02-04"
-tags: [hiring]
-description: Still can't manage a sales team
+title: "The One Day Work Week"
+date: "2024-05-10"
+tags: [process]
+description: No, not /that/ one day
 permalink: posts/{{ title | slug }}.html
 ---
 
-# Managing people I understand
+# One Day Work Week
 
-Content warning: this may be (even) more philosophical than usual.
+I'll not be talking about this idea of being able to only work a single day in the week - if you can, great for you, but I'm not there (yet?).
 
-What triggered those ramblings is me sharing something I often say "I cannot imagine managing a sales team" - as in "I can only see myself managing people doing a job I know - ie: software development".
+The One Day Week I refer to is a situation I now experienced at two different customers - due to my "time slicing" approach to freelancing (I've between 2 and 3 customers at the same time and I split my days between them) which is working a single day a week for a given customer/on a given project.
 
-Fact is, the friends I shared this with are both project managers (or product managers, does not matter here) of software teams, and none of them are coding.
+This lead me to some insights.
 
-They are also clearly successful - as in: they have earned the respect and trust of their developer colleagues, their customers & management, and are driving project home.
+## The days and the calendar
 
-In another recent experience in a "CTO meet CEO" kind of "matching" event, I was told by one of the "CEO" people that out of the 7 people the've met that night on the "CTO" side I was the only one able and willing to code - which baffled me, especially in early stage startup - what are you doing to do as a "CTO" if you don't build?
+The most immediate impact is the wide difference between the work days and the calendar days. A small feature requiring 4 days of work is now a full month. A medium sized one of 10 is almost a quarter.
 
-So a bunch of feelings about this:
+Assuming the rest of the project/company is not working on the same scheme (that's unlikely) and is going to continue to run on the other days, it make any task coming my way a very lengthy one
 
-## It's about me, it's not a rule for the world
+## No time for getting in
 
-First thing first - *I* could not see myself managing a team of people doing sales or bioengineering or something other. It does not means I think it's inherently bad for someone to do so.
+Working on one day chunk means no or very limited time to "get in". Taking half a days to get back in stuff after a week of holidays will be (rightly so) considered ok.
 
-I've seen people doing a really good job there (including the two friends I mention)
+Doing so every day of work, not.
 
-In other words: it's a rule for me, not for the world.
+It means organizing the work so that I can get "in" in less than an hour. Either because I've good notes (see later) or because I start something new that is well prepared/scoped.
 
-## Software development is not (only) programming
+## Collaboration aspects
 
-Teams I work in/with are generally those kind of small mutlifonction teams - ie they include programmers but also designers or others.
+This also means that nothing I do can be blocking for colleagues - or the very very minimum. So even more than usual, well prepared, autonomous tasks are the only reasonable way of working.
 
-To be more precise they include more *functions* than programming - usually product management, design, business analysis and a few other.
+Something I experienced already also is no regular meeting or any overhead - a two hours team meeting may be very reasonable out of a 40 hour week (that's 5% of the time) - much less so out of a 8 hour week (because it bumps to 25%).
 
-This may be a remain of the industry I started with - where all this roles were actually expected from a developer - or a trust that *under a certain size* teams of generalists tend to outperform specialists (due to being more flexible and requiring less steps between need and feature).
+## Small tasks/deliveries
 
-So - when I say jobs I understand it does not limit itself to "people writing code" - which also means I'd have no qualm with a software team being led by a devops or a designer either.
+This is as usual the key - one day workweek only works if deliveries are split into single day or maximum couple of days tasks (two days is already half a month!).
 
-## There is something weird in our industry
+While not easy (I always say that pretty much everything in software development can be made simple by splitting it into small pieces - but that splitting is generally quite difficult), the "one day workweek" context moves this from a "good thing" to a "mandatory one" - something that's generally beneficial to the team/organisation (short, regular deliveries).
 
-Look around. Medical teams are led by... doctors. Law firm have partners that are... lawyers. Architect offices are run by architects.
+## Notes to self
 
-Programming teams are led by... project managers.
+Knowing that if I don't finish something completely by the evening I'll go back to it in a full week means taking a lot of notes to preserve context - I generally either have them in the task tracker (so I can easily get back where I was) or even directly as an appointment in my calendar scheduled at my next hour of work for that company.
 
-Why? Why is our industry so different than it can't promote or be led by one of their own? Are we programmers too stupid, too narrow minded, too introvert to do so?
+This takes the form of a "letter to future me", with status but also/mostly ideas of next moves and "voiceover" of identified unknowns/things to try/etc.
 
-I don't have the answer there, but you have to admit it's pecular.
+The idea is really to have a "snapshot" of my mindset at a given time in order to restore it as fast as possible.
 
-## Why it matters to me?
+## It's tough
 
-There are several aspects to this:
+Let's be honest, starting this was really tough. Each day means being very precise about the goal/output to make sure to have it done (or at least a viable PR) by the end of the day.
 
-- Understanding: Having been there (and often still being there) means that when a colleague share a struggle I can at least say "I understand" - and mean it. It also mean I can help (even if I generally have other tasks).
-- Qualified Opinion: When there is a decision to take, I can have a qualified (personal) opinion on the topic - instead of just having to rely on "who do I trust the most" or basic logic. It does not mean I don't listen to the team (I've often said "I prefer the 'green' option but Sonia thinks the 'red' one is better, and she's the specialist on this so I'd go with her opinion over mine") - just that I have something to bring to the table too.
-- Technical representative:  When I'm in a meeting with business people or management, my team trust me enough to represent them as being "one of them". I can also sometime directly give the technical view/consequence of a business decision (at other time I'll go back to the team to get more precise information).
+That put an unusual pressure on my "delivery or die" kind of freelance approach - I'm here to produce outcome, not code or even outputs - doing this on single days iteration is not easy.
 
-This of course also make sense with my "pendulum" career (moving back and forth between developer and tech lead) - but that's not a necessity.
+## It works (under certain conditions)
 
-## 50 shades of team lead
+I've done this for some months at two different companies and I can confidently say that it can works - as is, generate real value for the project.
 
-Obiously, not every aspect of the "leadership" part is technical - far from it. Generally my role is about people management, priorization ("context and clarity") and technical autority. Only the third one requires that knowledge - but that means that if you are leading a team without technical knowledge, you then need to delegate that part to a technical person.
+Among the conditions I'd require:
 
-It does not seems as a problem, but I rarely see it done explicitely.
+- Mature stakeholder with efficient communication - in one of the cases, I had something "finished" each week, so each new day started with a 20 minutes call with a stakeholder about the next need, followed by quick chat Q/As when needed, and a PR at the end of the day.
+- Seniority: I would not have risked this early in my career. I'm playing on my [seniority as in fitting in](https://www.joyouscoding.com/posts/seniority-reloaded) capability here.
+- Dedicated area with limited contact surface with other developers: It's difficult to work this way on part of the code that are under heavy changes by the team
 
-## In the end
+Things I've done using this scheme:
 
-In the end - if it works, it works. "It works" meaning here the project goes forward and the various stakeholders (including the team obviously) are happy with it.
+- Performance improvements
+- Refactoring (with the idea it does not need to be done in one single session, as long as it can be merged after each, incrementally improving the situation)
+- New (small) features, using feature toggles if needed to be able to deliver them in one day chunks
 
-I could not imagine working any other way - but other people are different & have ways that works too. I've seen people that should not be leading dev teams due to their lack of technical skills - but again I've probably seen more people that should not be leading teams at all due to their lack of empathy - so it's may not always be the most important aspect
-
+I also thing that the approach force me to challenge even more the "this cannot be split in deliverable parts" - because it usually is, if you dig a bit more.

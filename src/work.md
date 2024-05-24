@@ -17,10 +17,11 @@ I've been building software and helping people build software for the last twent
 - I did a 3 months mission as a technical advisor at [WHO](https://www.who.int) for [Bluesquare](bluesquarehub.com) to help create a platform to manage covid data - from collection to dashboards
 - Finally I'm coaching/advising some early stages startups on technical matters.
 
-I'm currently working mainly at two companies:
+I'm currently working mainly at three companies:
 
 - I'm a self-proclaimed "Geek des champs" at [Farm For Good](https://www.farmforgood.org) - a cooperative of farmers working on agroecological practices. I'm building a platform to help them manage their data to take more informed decisions.
-- I'm a CTO at [Beeodiversity](https://beeodiversity.com), a company that uses... bees and the pollen they collect to do pollution evaluation. In the last 18 months, I created the MVP of our platform and scaled a team from one (me) to 6 developers in the last six months.
+- I'm a Senior Developer at [Beeodiversity](https://beeodiversity.com), a company that uses... bees and the pollen they collect to do pollution evaluation. In the last 18 months, I created the MVP of our platform and scaled a team from one (me) to 6 developers in the last six months before happily going back to software development.
+- I'm working as a mix of Lead Developer and Project manager for [Bluesquare](https://www.bluesquarehub.com), a company I know really well for being a CTO there for five years previously. I'm now in charge of a collaborative project between WHO and UNICEF.
 
 Technology-wise, I generally use what is there/what the team knows, with emphasis in going with well-established technologies as much as possible - popular stacks have a lot of examples and documentation available, large ecosystems and a good pool of developers to hire from - perks that are generally more important than the specific technical aspects.
 

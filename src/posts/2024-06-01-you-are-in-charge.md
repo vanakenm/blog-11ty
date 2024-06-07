@@ -42,7 +42,7 @@ In other words: it won't happen "by itself" and even if it does, you'll generall
 
 I don't think this is (generally) due to cruelty or greed - more to oversight. As a manager, it's easy to "forget" about the person that do the work & never complain/create problems - especially when you have crises to manage on a regular basis.
 
-I would also advise against "sicker-like recognition" - giving you a title does not cost the company a dime but won't help anything but your ego. Getting "more responsibilities" is a scam if you don't get more money (it's basically thanking you for your work with... more work). Actual benefits are, well, money, or (more) days off, etc.
+I would also advise against "sticker-like recognition" - giving you a title does not cost the company a dime but won't help anything but your ego. Getting "more responsibilities" is a scam if you don't get more money (it's basically thanking you for your work with... more work). Actual benefits are, well, money, or (more) days off, etc.
 
 There is a also a high signal value in raises - it is something that cost the company something - which means it's the only way to validate that they indeed value you.
 

@@ -14,19 +14,19 @@ This means taking care of growing, getting (more) money, getting opportunities, 
 
 ## Money
 
-Generally speaking, I've not see a lot of examples of "work hard and you'll be recognized" (as in - get raises, etc). I do believe you need to do the work - but also that when that's done, you need to come and ask for the money that comes with it.
+Generally speaking, I've not see a lot of examples of "work hard and you'll be recognized" (as in - get raises, etc). I do believe you need to do the work - but also that when that's done, you better come and ask for the money that comes with it.
 
 In other words: it won't happen "by itself" and even if it does, you'll generally have more chance by asking - politely but firmly.
 
-I don't think this is (always) due to cruelty or greed - more to oversight. As a manager, it's easy to "forget" about the person that do the work & never complain/create problems - especially when you have crisis to manage on a regular basis.
+I don't think this is (always) due to cruelty or greed - more to oversight. As a manager, it's easy to "forget" about the person that do the work & never complain/create problems - especially when you have crises to manage on a regular basis.
 
-I would also advise against "alternative forms of recognition" - giving you a title does not cost the company a dime but won't help anything but your ego. Getting "more responsibilities" is a scam if you don't get more money (it's basically thanking you for your work with... more work).
+I would also advise against "sicker-like recognition" - giving you a title does not cost the company a dime but won't help anything but your ego. Getting "more responsibilities" is a scam if you don't get more money (it's basically thanking you for your work with... more work). Actual benefits are, well, money, or (more) days off, etc.
 
 There is a also a high signal value in raises - it is something that cost the company something - which means it's the only way to validate that they indeed value you.
 
 So when the time come (after a big project/realization or during the yearly 1-1 or anything like that) - come prepared to bring the topic on the table if the company does not. Come with the receipts about your work, about what you delivered and ideally about how this is different from last year/what you were hired for.
 
-If the company deflect by saying they don't have the means, start by focusing on getting them to say (ideally write) that the raise is deserved - then go back to the "we can't afford that" by being "reasonable" (maybe you can have half now and half in six months). Again, go for written/precise/contractual statements - avoiding the vague ones as much as possible.
+If the company deflect by saying they don't have the means, start by focusing on getting them to say (ideally write) that the raise is deserved - then go back to the "we can't afford that" by being "reasonable" (maybe you can have half now and half in six months). Again, go for written/precise/contractual statements - avoid the vague ones as much as possible.
 
 ## Opportunities
 
@@ -67,6 +67,14 @@ I'd like for our work relationships to be more about common good and interests o
 I found HR departments or equivalent to be generally at best hypocritical, at worse really dangerous (to employees) - I tend to agree with the general "HR is not your friend" sentiment.
 
 Most people posting about the "glorious meritocracy" of the IT sector are generally delusional - they may be in privileged positions (like I am) now - but all of this could disappear at the next economic downturn.
+
+## Community
+
+I still believe in community - that is strength from groups. Join a union (if there is one active), join interest groups in your industry, especially if you are from a discriminated group. Talk with your colleagues, notably about money. Contrary to what people think, not talking about this with colleagues topic makes your position weaker, not stronger.
+
+Requests to the company (for better work conditions or anything else) made by a group are generally much more powerful than the one made individually - hence have higher chances of success.
+
+Networks does not have to stop at company boundaries - as time pass you'll probably have more colleagues in other companies than in your current one - you can leverage that too (I touched that point in [The lone freelance and his 50 colleagues](https://www.joyouscoding.com/posts/the-lone-freelance-and-his-50-colleagues)
 
 ## Conclusion
 

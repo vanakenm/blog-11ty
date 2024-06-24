@@ -17,3 +17,4 @@ Here is some feedback I got from previous customers/employers:
 - They guy is a webinar by himself
 - You are the king of OneDrive (no crown with the mandate, unfortunately)
 - You make good points and proposals - it feels without any concerns for your job (when I ask if we really need to make the software at all)
+- Martin Van Aken - "Martin the First" for those who know, long may he reign! (when I returned to a company I worked for before, where the new CTO is also named Martin)

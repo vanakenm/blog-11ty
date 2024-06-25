@@ -36,7 +36,8 @@
       "url": "https://www.beeodiversity.com",
       "logo": "/images/logos/beeo.jpg"
     },
-    { "url": "https://www.signhow.co", "logo": "/images/logos/signhow.svg" }
+    { "url": "https://www.signhow.co", "logo": "/images/logos/signhow.svg" },
+    { "url": "https://www.student.be", "logo": "/images/logos/student_be.jpeg" }
   ],
   "headerLinks": [
     {

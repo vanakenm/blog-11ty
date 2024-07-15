@@ -1,6 +1,6 @@
 ---
 title: Why I hire Full Stack Developers and why you should too 
-date: "2024-15-07"
+date: "2024-07-15"
 tags: [hiring]
 description: It's about business value
 permalink: posts/{{ title | slug }}.html

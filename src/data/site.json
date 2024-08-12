@@ -24,6 +24,11 @@
     { "url": "https://www.lewagon.com", "logo": "/images/logos/lewagon.png" },
     { "url": "https://www.iospress.com", "logo": "/images/logos/iospress.png" },
     { "url": "https://www.eqla.be", "logo": "/images/logos/eqla.png" },
+    { "url": "https://www.recovr.be", "logo": "/images/logos/recovr.png" },
+    {
+      "url": "https://www.travelsify.com",
+      "logo": "/images/logos/travelsify.png"
+    },
     {
       "url": "https://www.rocketflow.be",
       "logo": "/images/logos/rocketflow.jpg"

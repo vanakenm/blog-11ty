@@ -19,4 +19,5 @@ Here is some feedback I got from previous customers/employers:
 - You make good points and proposals - it feels without any concerns for your job (when I ask if we really need to make the software at all)
 - Martin Van Aken - "Martin the First" for those who know, long may he reign! (when I returned to a company I worked for before, where the new CTO is also named Martin)
 - We don't need a boss. We just need someone to do for us what Martin is doing for the dev team (from a colleague in another team) 
-- You know you are a cowboy so you temper that pretty well yourself
+- You know you are a cowboy so you temper it pretty well yourself
+- After working with you, I now demand 120 words per minutes. Less than that it's a regression

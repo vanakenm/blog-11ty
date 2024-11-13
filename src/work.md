@@ -17,12 +17,13 @@ I've been building software and helping people build software for the last twent
 - I did a 3 months mission as a technical advisor at [WHO](https://www.who.int) for [Bluesquare](bluesquarehub.com) to help create a platform to manage covid data - from collection to dashboards
 - I've joined [Beeodiversity](https://beeodiversity.com) a company that uses... bees and the pollen they collect to do pollution evaluation. In just two years, I created the MVP of our platform and scaled a team from one (me) to 6 developers in the before happily going back to software development.
 - I've worked wor [Travelsify](https://www.travelsify.com) to help generate nice looking PowerPoint's from the advanced metrics their system produce.
+- I worked (again) as a mix of Lead Developer and Project manager for [Bluesquare](https://www.bluesquarehub.com), a company I know really well for being a CTO there for five years previously. I was in charge of a collaborative project between WHO and UNICEF.
 - Finally I'm coaching/advising some early(sh) stage startups on technical matters - generally acting as a sounding board for the CTO/lead dev and using my "I've been there before" power.
 
 I'm currently working mainly at two companies:
 
 - I'm a self-proclaimed "Geek des champs" at [Farm For Good](https://www.farmforgood.org) - a cooperative of farmers working on agroecological practices. I'm building a platform to help them manage their data to take more informed decisions.
-- I'm working as a mix of Lead Developer and Project manager for [Bluesquare](https://www.bluesquarehub.com), a company I know really well for being a CTO there for five years previously. I'm now in charge of a collaborative project between WHO and UNICEF.
+- I'm working on a bunch of new projects for [L'agence pour le non marchand](https://www.lagencepourlenonmarchand.be/), the nice people behind (notably) [Le guide social](https://pro.guidesocial.be/).
 
 Technology-wise, I generally use what is there/what the team knows, with emphasis in going with well-established technologies as much as possible - popular stacks have a lot of examples and documentation available, large ecosystems and a good pool of developers to hire from - perks that are generally more important than the specific technical aspects.
 

@@ -1,5 +1,5 @@
 ---
-title: Trunk Based Development 
+title: Custom Training Offer 
 date: "2025-03-07"
 tags: [services]
 description: Custom Training for your teams

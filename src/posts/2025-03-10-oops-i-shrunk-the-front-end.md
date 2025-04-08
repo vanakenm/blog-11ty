@@ -6,9 +6,9 @@ description: Honey I shrunk the front end
 permalink: posts/{{ title | slug }}.html
 ---
 
-I ranted recently on the [benefits of Full Stack Developers]() and the simplification of the process [that comes with it]().
+I ranted recently on the [benefits of Full Stack Developers](https://www.joyouscoding.com/posts/why-i-hire-full-stack-developers-and-why-you-should-too) and the simplification of the process that comes with it.
 
-Those last years, I have a technical stack that has become my "reasonable default" - Postgres, Django, React.
+Those last years I have a technical stack that has become my "reasonable default" - Postgres, Django, React.
 
 There are a lot of reasons those tech are popular - they work well, are well maintained, and are a good fit for a good number of projects (generally speaking I don't think your project has any specific technical requirements - in other words, most tech stacks will fit most business needs). 
 
@@ -16,12 +16,12 @@ While generally happy, I've been more and more concerned about advising that sta
 
 ## SPAs
 
-Most front end development nowadays is happening in "SPA" (Single Page Applications) - something coded in React, Angular, Svelte or Vue. Basically we cut the application in two parts:
+Most front end development nowadays is happening in "SPAs" (Single Page Applications) - something coded in React, Angular, Svelte or Vue. Basically we cut the application in two parts:
 
 - A backend interacting with the database and doing (most of) the business logic, coded in whatever backend language you have (Python, PHP, Java, .NET, ...). This backend expose data and operations as an API (a set of url that are sending back json)
 - A front end with the screens and interaction, that calls the backend, coded in JavaScript.
 
-This separation has always existed logically - but now we're doing to complete separate application, with widely different technologies & frameworks.
+This separation has always existed logically - but now we're doing two complete separate applications, with widely different technologies & frameworks.
 
 There are of course benefits - it has become massively easier to create "interactions heavy" applications, and we saw extremely nice components library emerge (things like Shad, MaterialUI, etc). But there are downsides too.
 

@@ -54,7 +54,7 @@ Note that this is in addition of not having to work with two developers each tim
 
 ## Conclusion
 
-As usual in tech, we find ourselves using technologies developer by and for extremely large players (Google, Facebook, etc). This attract a lot of interest, talks, packages, etc - but none of this make them by default good for the 99% (looking at you, Kubernetes). Solution that were standard yesterday feels going against the wind nowadays.
+As usual in tech, we find ourselves using technologies developed by and for extremely large players (Google, Facebook, etc). This attract a lot of interest, talks, packages, etc - but none of this make them by default good for the 99% of us (looking at you, Kubernetes). Solutions that were standard (such as templates) yesterday feels going against the wind nowadays.
 
 I would not throw React(/Angular/...) away altogether - some applications benefit a lot from it. **But I think going "two apps for one" by default is a mistake I won't make again**. 
 

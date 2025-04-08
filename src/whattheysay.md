@@ -21,3 +21,4 @@ Here is some feedback I got from previous customers/employers:
 - We don't need a boss. We just need someone to do for us what Martin is doing for the dev team (from a colleague in another team) 
 - You know you are a cowboy so you temper it pretty well yourself
 - After working with you, I now demand 120 words per minutes. Less than that it's a regression
+- You are obviously not a bot

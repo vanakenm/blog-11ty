@@ -50,6 +50,8 @@ What I missed ? The app was doing full page reloads - but the pages are fast (an
 
 My biggest loss here are the components libraries - but even there I found options such as [TailGrids](https://tailgrids.com/) which offers components in HTML using Tailwind.
 
+Note that this is in addition of not having to work with two developers each time as my comparison point is always a Full Stack Developer (me) - if this moves allow you to move from two dev on a feature to one, the benefits are much larger (in terms of flow).
+
 ## Conclusion
 
 As usual in tech, we find ourselves using technologies developer by and for extremely large players (Google, Facebook, etc). This attract a lot of interest, talks, packages, etc - but none of this make them by default good for the 99% (looking at you, Kubernetes). Solution that were standard yesterday feels going against the wind nowadays.

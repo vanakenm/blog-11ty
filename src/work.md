@@ -23,7 +23,7 @@ I've been building software and helping people build software for the last twent
 I'm currently working mainly at two companies:
 
 - I'm a self-proclaimed "Geek des champs" at [Farm For Good](https://www.farmforgood.org) - a cooperative of farmers working on agroecological practices. I'm building a platform to help them manage their data to take more informed decisions.
-- I'm working on a bunch of new projects for [L'agence pour le non marchand](https://www.lagencepourlenonmarchand.be/), the nice people behind (notably) [Le guide social](https://pro.guidesocial.be/).
+- I'm working as a teacher at [Haute Ecole de Vinci](https://www.vinci.be/en)
 
 Technology-wise, I generally use what is there/what the team knows, with emphasis in going with well-established technologies as much as possible - popular stacks have a lot of examples and documentation available, large ecosystems and a good pool of developers to hire from - perks that are generally more important than the specific technical aspects.
 

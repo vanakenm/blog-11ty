@@ -1,7 +1,7 @@
 ---
 title: Picking a mobile tech 
 date: "2025-12-09"
-tags: [tech]
+tags: [tech, process]
 description: Choosing between Flutter & React native in a small TBD team
 permalink: posts/{{ title | slug }}.html
 ---

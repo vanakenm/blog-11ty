@@ -22,3 +22,4 @@ Here is some feedback I got from previous customers/employers:
 - You know you are a cowboy so you temper it pretty well yourself
 - After working with you, I now demand 120 words per minutes. Less than that it's a regression
 - You are obviously not a bot
+- This is the highest rank of respect achievable with Martin (when I explain that I can "just shut up" about a topic even if I strongly disagree)

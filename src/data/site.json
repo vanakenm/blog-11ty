@@ -75,6 +75,10 @@
     {
       "url": "https://www.student.be",
       "logo": "/images/logos/student_be.jpeg"
+    },
+      {
+      "url": "https://nana.coach",
+      "logo": "/images/logos/nana.png"
     }
   ],
   "headerLinks": [

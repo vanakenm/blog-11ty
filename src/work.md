@@ -18,6 +18,7 @@ I've been building software and helping people build software for the last twent
 - I've joined [Beeodiversity](https://beeodiversity.com) a company that uses... bees and the pollen they collect to do pollution evaluation. In just two years, I created the MVP of our platform and scaled a team from one (me) to 6 developers in the before happily going back to software development.
 - I've worked wor [Travelsify](https://www.travelsify.com) to help generate nice looking PowerPoint's from the advanced metrics their system produce.
 - I worked (again) as a mix of Lead Developer and Project manager for [Bluesquare](https://www.bluesquarehub.com), a company I know really well for being a CTO there for five years previously. I was in charge of a collaborative project between WHO and UNICEF.
+- I worked again as a teacher for a programming Bachelor at [Vinci (ex IPL)](https://www.vinci.be) specifically on last year project helping students to understand the challenges they'll meet in the industry.
 - Finally I'm coaching/advising some early(sh) stage startups on technical matters - generally acting as a sounding board for the CTO/lead dev and using my "I've been there before" power.
 
 I'm currently working mainly at two companies:
@@ -27,8 +28,8 @@ I'm currently working mainly at two companies:
 
 Technology-wise, I generally use what is there/what the team knows, with emphasis in going with well-established technologies as much as possible - popular stacks have a lot of examples and documentation available, large ecosystems and a good pool of developers to hire from - perks that are generally more important than the specific technical aspects.
 
-I've worked (in a production setting) with Java, Ruby, JavaScript (and TypeScript), PHP and Python - I'll probably learn others as needed. I mostly work with web technologies even if I did some mobile dev too. Due to my Economics degree, I tend to have a good grasp of statistics, so Data Science is generally accessible to me.
+I've worked (in a production setting) with Java, Ruby, JavaScript (and TypeScript), PHP, Go and Python - I'll probably learn others as needed. I mostly work with web technologies even if I did some mobile dev too (mainly React Native and Flutter). Due to my Economics degree, I tend to have a good grasp of statistics, so Data Science is generally accessible to me.
 
-Thanks to Marleen, Christophe, Nicolas, Zineddine, Stefan, Anne, Sébastien, Ben, Stéphanie, Kim, Michael, Alexandra, Clotilde, Harold and all the others for your trust. 
+Thanks to Marleen, Christophe, Nicolas, Zineddine, Stefan, Anne, Sébastien, Ben, Stéphanie, Kim, Michael, Alexandra, Clotilde, Harold, Pierre, Louis, Samia, Amely and all the others for your trust. 
 
 Interested to contract me? Send me an email at [martin@joyouscoding.com](mailto:martin@joyouscoding.com)

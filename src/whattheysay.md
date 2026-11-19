@@ -24,3 +24,4 @@ Here is some feedback I got from previous customers/employers:
 - You are obviously not a bot
 - This is the highest rank of respect achievable with Martin (when I explain that I can "just shut up" about a topic even if I strongly disagree)
 - This is a dangerously good application
+- Notion Boulet

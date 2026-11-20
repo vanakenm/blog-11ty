@@ -25,4 +25,4 @@ Here is some feedback I got from previous customers/employers:
 - This is the highest rank of respect achievable with Martin (when I explain that I can "just shut up" about a topic even if I strongly disagree)
 - This is a dangerously good application
 - Notion Boulet
-- Listen to Martin and ignore me (when I provide advise to a young programmer)
+- Listen to Martin and ignore me (when I provide advice to a young programmer)

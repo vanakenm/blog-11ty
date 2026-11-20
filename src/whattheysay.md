@@ -26,3 +26,4 @@ Here is some feedback I got from previous customers/employers:
 - This is a dangerously good application
 - Notion Boulet
 - Listen to Martin and ignore me (when I provide advice to a young programmer)
+- Applies to all situations
